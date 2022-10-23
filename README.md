@@ -1,0 +1,1 @@
+This game idea is based on the book, "The Big Book of Small Python Projects" by Al Sweigart. I, Jewell Anne Diamante, originally created the code.
